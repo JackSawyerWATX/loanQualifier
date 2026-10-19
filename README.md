@@ -101,4 +101,4 @@ Thanks to the maintainers and contributors who help improve this project.
 
 ## Author
 
-Maintained by [JackSawyerWATX](https://github.com/JackSawyerWATX).
+Jack Sawyer
